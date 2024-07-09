@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="1" availability="true">
+<title>As You Like It</title>
+<author>William Shakespeare</author>
+<publisher><characters>
+<character>
+    <name>Rosalind</name>
+    <description>Rosalind is the quick-witted heroine of the play.She consistently attracts and confounds other characters.</description>
+</character>
+<character>
+    <name>Celia</name>
+    <description>Celia is Rosalind’s cousin who teases Rosalind about her love for Orlando but eventually falls in love herself with Oliver.</description>
+</character>
+</characters></publisher>
+<year>1599</year>
+<genre>Drama</genre>
+</book>
+

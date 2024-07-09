@@ -1,0 +1,10 @@
+Public static void main(String args[])
+{
+	Double a=10;
+	Into b=5;
+	System.out.println(a%b);
+}
+
+Output
+error.
+because double cannot hold the integer value and there is not data type called Into.

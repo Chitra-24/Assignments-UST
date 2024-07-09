@@ -1,0 +1,27 @@
+Code Navigation:
+- Open Type (Ctrl + Shift + T):
+	Quickly navigate to a specific class by using the "Open Type" dialog. Press Ctrl + Shift + T, start typing the class name, and select it from the filtered list.
+- Quick Outline (Ctrl + O):
+	Navigate within a class using the "Quick Outline" feature. Press Ctrl + O to see a list of methods and fields, then jump to the desired location.
+
+Debugging:
+- Set Breakpoints:
+	Click in the left margin next to the line numbers to set breakpoints. These are points in your code where execution will pause during debugging.
+- Debug Configuration:
+	Right-click on your Java file, select Debug As > Java Application. Eclipse will automatically create a debug configuration.
+- Debug Perspective:
+	Switch to the "Debug" perspective using the perspective switcher in the top-right corner of the IDE. This perspective provides a dedicated view for debugging activities.
+- Inspect Variables:
+	While debugging, use the "Variables" view to inspect the values of variables.
+- Step Through Code:
+	Utilize the toolbar buttons like "Step Into" (F5), "Step Over" (F6), and "Resume" (F8) to navigate through your code during debugging.
+
+Project Management:
+- Package Explorer:
+	View your project structure and files in the "Package Explorer" tab on the left side of the IDE.
+- Refactoring Tools:
+	Right-click on classes or packages to access refactoring tools like renaming, moving, or extracting methods.
+- Organize Imports (Ctrl + Shift + O):
+	Clean up your code by removing unnecessary imports using the "Organize Imports" shortcut (Ctrl + Shift + O).
+- Search and Replace:
+	Use the "Search" menu to find and replace code snippets across your project.

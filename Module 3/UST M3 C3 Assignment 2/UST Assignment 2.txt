@@ -1,0 +1,25 @@
+
+1. com.bytecraft.pro.core:
+   - Contains fundamental classes and interfaces that form the core foundation of the application.
+
+2. com.bytecraft.pro.modules:
+   - Subpackages for different functional modules (e.g., user management, data processing, UI components).
+
+3. com.bytecraft.pro.data:
+   - Includes classes related to data access, persistence, and database management.
+
+4. com.bytecraft.pro.ui:
+   - classes responsible for the user interface, including graphical components, UI controllers, and event handlers.
+
+5. com.bytecraftpro.services:
+   - Provides service classes responsible for business logic, orchestration, and communication between modules.
+
+6. com.bytecraft.pro.utils:
+   - Contains utility classes and helper functions that can be shared across different parts of the application.
+  
+7. com.bytecraft.pro.config:
+   - Includes classes related to configuration management, settings, and initialization logic.
+
+8. com.bytecraft.pro.tests:
+   - test classes for unit testing, integration testing, and other testing-related utilities.
+
